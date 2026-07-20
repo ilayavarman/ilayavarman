@@ -36,6 +36,25 @@ Building AI-powered applications, Java projects, and exploring cybersecurity.
 ### 🌐 Personal Portfolio Website
 
 <img src="https://img.shields.io/badge/Completed-success?style=flat-square&color=brightgreen">
+## 🛡️ CyberShield
+
+🟢 **Completed**
+
+**AI-Powered Cyber Security Toolkit**
+
+🔹 Website Security Checker  
+🔹 SSL Certificate Inspector  
+🔹 DNS Lookup  
+🔹 WHOIS Lookup  
+🔹 Technology Detector  
+🔹 Password Strength Analyzer  
+🔹 SQLite Database Integration  
+🔹 Security Score Analysis  
+🔹 Streamlit Dashboard  
+
+**Tech Stack:** Python • Streamlit • SQLite • Requests • BeautifulSoup • dnspython • python-whois • ReportLab
+
+🔗 **Repository:** https://github.com/ilayavarman/CyberShield
 
 ---
 
